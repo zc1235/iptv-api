@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260102082829 +0800">
+<tv date="20260102111911 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -11850,6 +11850,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260102132300 +0800" stop="20260102145500 +0800">
 		<title lang="zh">少女灵异日记</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260102145500 +0800" stop="20260102153000 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260102153000 +0800" stop="20260102173100 +0800">
+		<title lang="zh">破碎的拥抱</title>
 	</programme>
 	<channel id="攀枝花新闻综合">
 		<display-name lang="zh">攀枝花新闻综合</display-name>
@@ -29223,6 +29229,12 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20260102132800 +0800" stop="20260102145400 +0800">
 		<title lang="zh">黑色特警</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260102145400 +0800" stop="20260102152900 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260102152900 +0800" stop="20260102165600 +0800">
+		<title lang="zh">特别追踪</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
