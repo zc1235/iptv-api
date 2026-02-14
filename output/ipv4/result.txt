@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-02-14 07:28:43,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-02-14 19:16:05,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
+高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -39,6 +40,7 @@
 靖江新闻综合,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 
 ☘️辽宁频道,#genre#
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -51,6 +53,8 @@
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
+叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
+叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
@@ -61,7 +65,6 @@
 金川新闻综合,rtmp://live.jinchuanrmt.com/live/zhxw
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
 长宁综合,rtmp://cnpull.sccnfb.com/live/123456
-青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -83,6 +86,8 @@
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
@@ -123,6 +128,8 @@
 内蒙经济,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 
 ☘️云南频道,#genre#
+通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
+陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 
 ☘️青海频道,#genre#
 
@@ -132,7 +139,6 @@
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
-IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 
 🏀体育频道,#genre#
 
@@ -150,9 +156,9 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
 天龙八部,https://lunbo.freetv.top/yy/1382736855
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
-鹿鼎记,http://43.138.0.72:35455/yy/28265277
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-三国演义,http://lunbo.freetv.top/yy/1354930932
 三国演义,https://lunbo.freetv.top/yy/1354930932
+三国演义,http://lunbo.freetv.top/yy/1354930932
 新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
 济公游记,https://lunbo.freetv.top/yy/1355265814
+封神榜,https://lunbo.freetv.top/yy/1382797534
