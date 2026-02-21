@@ -1,13 +1,15 @@
 🕘️更新时间,#genre#
-2026-02-21 19:17:35,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-02-22 07:13:59,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
+高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
@@ -18,8 +20,6 @@
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
-嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed&quot;
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
@@ -40,10 +40,12 @@
 靖江新闻综合,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 
 ☘️辽宁频道,#genre#
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
 
 ☘️湖南频道,#genre#
 
 ☘️湖北频道,#genre#
+武汉文体,http://171.83.103.119:9999/rtp/239.69.1.147:10518
 
 ☘️广西频道,#genre#
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
@@ -52,7 +54,6 @@
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
-井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
@@ -68,8 +69,8 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 
 ☘️海南频道,#genre#
@@ -85,8 +86,6 @@
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
@@ -104,7 +103,6 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
@@ -128,9 +126,6 @@
 内蒙经济,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
 
 ☘️云南频道,#genre#
-易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
-通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
-陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
 
 ☘️青海频道,#genre#
 
@@ -144,15 +139,14 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 经典动漫,https://lunbo.freetv.top/yy/24180320
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
