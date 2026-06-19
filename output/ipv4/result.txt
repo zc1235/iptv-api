@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-19 08:52:33,http://183.220.107.138:4022/rtp/239.10.0.224:5140
+2026-06-19 22:40:01,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
 
 📡卫视频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -21,15 +20,14 @@
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
 象山新闻综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8zzhed
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed?
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed[浙江]洞头综合频道
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed[浙江]洞头综合频道
-余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 
 ☘️北京频道,#genre#
@@ -57,9 +55,11 @@
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
+乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 名山综合,rtmp://tv.yunxya.com:1937/channellive/mingshan
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
+广安公共,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 旺苍新闻综合,rtmp://tv.wcrmt.cn/channellive/ch1
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
@@ -71,14 +71,14 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
 
 ☘️海南频道,#genre#
 
 ☘️河南频道,#genre#
+梨园,http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 
 ☘️河北频道,#genre#
@@ -88,9 +88,6 @@
 ☘️甘肃频道,#genre#
 甘肃经济,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 甘肃都市,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 
 ☘️新疆频道,#genre#
@@ -115,7 +112,6 @@
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd#rtmp://tv.qmxrmt.com/chan/ch1
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
-广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 
@@ -123,6 +119,7 @@
 
 ☘️吉林频道,#genre#
 吉林乡村,http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 
 ☘️内蒙古频道,#genre#
 
@@ -131,7 +128,6 @@
 ☘️青海频道,#genre#
 
 ☘️黑龙江频道,#genre#
-黑龙江新闻,http://111.43.126.240:7777/hls/10/index.m3u8
 
 🌊港·澳·台,#genre#
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
