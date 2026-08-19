@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-19 07:50:03,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8
+2026-08-19 19:44:19,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 
 📺央视频道,#genre#
 
@@ -8,7 +8,6 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
@@ -19,11 +18,12 @@
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-1.m3u8
@@ -34,6 +34,7 @@
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
@@ -64,12 +65,7 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-厦门卫视,https://stream1.freetv.fun/1d1f4ee3272778c3d7965079694c5fa2b4daae8342dfb55a91a721fa64d486fb.m3u8
-厦门卫视,https://stream1.freetv.fun/cc2a1fdd054d0069e308a8c5358596fe1ba08562b102d8223a3b02e620082f96.m3u8
-厦门卫视,https://stream1.freetv.fun/dbed63a86040718ec58da63619796d31e0af9afacda7aedd1423aa1af946a7b9.m3u8
-厦门卫视,https://stream1.freetv.fun/8a2a9ccafaf754063ce9d89bdb563b7408b96117d9e868780622f631a35ea400.m3u8
-厦门卫视,https://stream1.freetv.fun/56e516f15802427b9b451c67772481b8d8866caaee127bd1547942e4306ae5ae.m3u8
-厦门卫视,https://stream1.freetv.fun/5da2a85177dcd23a50c3ab9e4cab815050b93d08339747a724575bceef3143bb.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
 
@@ -111,20 +107,21 @@
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
 🎬电影频道,#genre#
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 
 🪁动画频道,#genre#
-经典动漫,https://www.goodiptv.club/yy/22777075
+海绵宝宝,https://live.metshop.top/douyu/3949681
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-封神榜,http://live.ottiptv.cc/huya/29465849
