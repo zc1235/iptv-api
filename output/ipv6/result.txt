@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-08 23:26:13,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+2026-09-09 09:10:23,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 📺央视频道,#genre#
 
@@ -10,25 +10,20 @@
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -57,6 +52,7 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
+厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 
 ☘️海南频道,#genre#
 
@@ -77,6 +73,7 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
@@ -108,10 +105,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+经典动漫,https://www.goodiptv.club/yy/22777075
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-封神榜,http://live.ottiptv.cc/huya/29465849
