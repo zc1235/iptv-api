@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-24 00:04:38,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+2026-09-24 09:43:08,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 
 📺央视频道,#genre#
 
@@ -10,8 +10,7 @@
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?fbl=
 
 ☘️北京频道,#genre#
 
@@ -47,10 +46,12 @@
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
-邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18
 河北农民,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=2510710360&k=a3c2c0f740a31dc24d48ad098cd1eec3
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 
@@ -89,8 +90,11 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 
 🏀体育频道,#genre#
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 
 🪁动画频道,#genre#
+海绵宝宝,https://live.metshop.top/douyu/3949681
 经典动漫,https://www.goodiptv.club/yy/22777075
 
 🎮游戏频道,#genre#
@@ -98,3 +102,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+封神榜,http://live.ottiptv.cc/huya/29465849
